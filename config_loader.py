@@ -1,7 +1,7 @@
 from pathlib import Path
 import yaml
 
-def load_config(path="config.yaml"):
+def load_config(path="config.yml"):
     config_path = Path(path)
 
     if not config_path.exists():
