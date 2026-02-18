@@ -11,8 +11,15 @@ def convert_to_sql(config):
     # Ler ficheiro
     if input_file.endswith(".csv"):
         df = pd.read_csv(input_file)
-    else:
+
+    elif input_file.endswith(".xlsx"):
         df = pd.read_excel(input_file, sheet_name=sheet_name)
+
+    elif input_file.endswith(".json"):
+        df = pd.read_json(input_file)
+
+    else:
+        raise ValueError("Formato não suportado.")
 
     # Selecionar colunas se definido
     if selected_columns:

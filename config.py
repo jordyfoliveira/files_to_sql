@@ -1,3 +1,4 @@
+"""
 CONFIG = {
     "input": {
         "file": "input/users.csv",
@@ -13,5 +14,19 @@ CONFIG = {
         "name": "users",
         "selected_columns": None,
         "primary_key": "user_id"
+    }
+}
+"""
+CONFIG = {
+    "input": {
+        "file": "input/sample.json",
+        "sheet_name": None
+    },
+    "output": {
+        "file": "output/users_from_json.sql"
+    },
+    "table": {
+        "name": "users_json",
+        "selected_columns": None
     }
 }

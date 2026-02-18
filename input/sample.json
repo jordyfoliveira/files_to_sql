@@ -1,0 +1,402 @@
+[
+  {
+    "user_id": 1,
+    "name": "Ana Silva",
+    "email": "ana.silva25@gmail.com",
+    "age": 31,
+    "created_at": "2025-05-13",
+    "is_active": false
+  },
+  {
+    "user_id": 2,
+    "name": "Filipe Ferreira",
+    "email": "filipe.ferreira8@gmail.com",
+    "age": 58,
+    "created_at": "2025-06-24",
+    "is_active": true
+  },
+  {
+    "user_id": 3,
+    "name": "Ana Santos",
+    "email": "ana.santos45@gmail.com",
+    "age": 33,
+    "created_at": "2025-07-03",
+    "is_active": false
+  },
+  {
+    "user_id": 4,
+    "name": "Diogo Silva",
+    "email": "diogo.silva16@gmail.com",
+    "age": 40,
+    "created_at": "2025-11-01",
+    "is_active": true
+  },
+  {
+    "user_id": 5,
+    "name": "Diogo Silva",
+    "email": "diogo.silva82@gmail.com",
+    "age": 29,
+    "created_at": "2025-07-07",
+    "is_active": true
+  },
+  {
+    "user_id": 6,
+    "name": "Eva Oliveira",
+    "email": "eva.oliveira87@gmail.com",
+    "age": 25,
+    "created_at": "2025-04-16",
+    "is_active": false
+  },
+  {
+    "user_id": 7,
+    "name": "Bruno Silva",
+    "email": "bruno.silva22@gmail.com",
+    "age": 18,
+    "created_at": "2025-03-10",
+    "is_active": true
+  },
+  {
+    "user_id": 8,
+    "name": "Ana Costa",
+    "email": "ana.costa86@gmail.com",
+    "age": 65,
+    "created_at": "2025-07-16",
+    "is_active": false
+  },
+  {
+    "user_id": 9,
+    "name": "Diogo Oliveira",
+    "email": "diogo.oliveira34@gmail.com",
+    "age": 22,
+    "created_at": "2025-07-23",
+    "is_active": true
+  },
+  {
+    "user_id": 10,
+    "name": "Diogo Santos",
+    "email": "diogo.santos78@gmail.com",
+    "age": 32,
+    "created_at": "2025-10-13",
+    "is_active": true
+  },
+  {
+    "user_id": 11,
+    "name": "Bruno Ferreira",
+    "email": "bruno.ferreira72@gmail.com",
+    "age": 38,
+    "created_at": "2025-05-11",
+    "is_active": true
+  },
+  {
+    "user_id": 12,
+    "name": "Ana Costa",
+    "email": "ana.costa42@gmail.com",
+    "age": 31,
+    "created_at": "2026-01-23",
+    "is_active": false
+  },
+  {
+    "user_id": 13,
+    "name": "Diogo Santos",
+    "email": "diogo.santos16@gmail.com",
+    "age": 44,
+    "created_at": "2025-02-18",
+    "is_active": false
+  },
+  {
+    "user_id": 14,
+    "name": "Eva Costa",
+    "email": "eva.costa64@gmail.com",
+    "age": 36,
+    "created_at": "2025-11-17",
+    "is_active": false
+  },
+  {
+    "user_id": 15,
+    "name": "Bruno Costa",
+    "email": "bruno.costa90@gmail.com",
+    "age": 57,
+    "created_at": "2025-09-23",
+    "is_active": false
+  },
+  {
+    "user_id": 16,
+    "name": "Ana Santos",
+    "email": "ana.santos41@gmail.com",
+    "age": 36,
+    "created_at": "2025-05-20",
+    "is_active": true
+  },
+  {
+    "user_id": 17,
+    "name": "Ana Santos",
+    "email": "ana.santos25@gmail.com",
+    "age": 65,
+    "created_at": "2025-11-17",
+    "is_active": false
+  },
+  {
+    "user_id": 18,
+    "name": "Eva Santos",
+    "email": "eva.santos36@gmail.com",
+    "age": 65,
+    "created_at": "2025-07-27",
+    "is_active": false
+  },
+  {
+    "user_id": 19,
+    "name": "Filipe Ferreira",
+    "email": "filipe.ferreira44@gmail.com",
+    "age": 27,
+    "created_at": "2025-04-21",
+    "is_active": false
+  },
+  {
+    "user_id": 20,
+    "name": "Filipe Santos",
+    "email": "filipe.santos92@gmail.com",
+    "age": 47,
+    "created_at": "2026-01-21",
+    "is_active": true
+  },
+  {
+    "user_id": 21,
+    "name": "Eva Ferreira",
+    "email": "eva.ferreira91@gmail.com",
+    "age": 61,
+    "created_at": "2025-05-16",
+    "is_active": true
+  },
+  {
+    "user_id": 22,
+    "name": "Ana Costa",
+    "email": "ana.costa2@gmail.com",
+    "age": 49,
+    "created_at": "2025-11-15",
+    "is_active": false
+  },
+  {
+    "user_id": 23,
+    "name": "Bruno Oliveira",
+    "email": "bruno.oliveira89@gmail.com",
+    "age": 52,
+    "created_at": "2025-06-11",
+    "is_active": false
+  },
+  {
+    "user_id": 24,
+    "name": "Diogo Ferreira",
+    "email": "diogo.ferreira26@gmail.com",
+    "age": 56,
+    "created_at": "2025-06-24",
+    "is_active": true
+  },
+  {
+    "user_id": 25,
+    "name": "Filipe Ferreira",
+    "email": "filipe.ferreira93@gmail.com",
+    "age": 42,
+    "created_at": "2025-07-19",
+    "is_active": false
+  },
+  {
+    "user_id": 26,
+    "name": "Carla Santos",
+    "email": "carla.santos77@gmail.com",
+    "age": 44,
+    "created_at": "2026-02-18",
+    "is_active": true
+  },
+  {
+    "user_id": 27,
+    "name": "Filipe Santos",
+    "email": "filipe.santos16@gmail.com",
+    "age": 24,
+    "created_at": "2025-07-21",
+    "is_active": false
+  },
+  {
+    "user_id": 28,
+    "name": "Bruno Ferreira",
+    "email": "bruno.ferreira8@gmail.com",
+    "age": 24,
+    "created_at": "2025-11-27",
+    "is_active": true
+  },
+  {
+    "user_id": 29,
+    "name": "Filipe Oliveira",
+    "email": "filipe.oliveira17@gmail.com",
+    "age": 45,
+    "created_at": "2025-07-18",
+    "is_active": false
+  },
+  {
+    "user_id": 30,
+    "name": "Filipe Ferreira",
+    "email": "filipe.ferreira99@gmail.com",
+    "age": 39,
+    "created_at": "2025-06-29",
+    "is_active": true
+  },
+  {
+    "user_id": 31,
+    "name": "Eva Costa",
+    "email": "eva.costa85@gmail.com",
+    "age": 33,
+    "created_at": "2025-03-25",
+    "is_active": true
+  },
+  {
+    "user_id": 32,
+    "name": "Diogo Oliveira",
+    "email": "diogo.oliveira5@gmail.com",
+    "age": 65,
+    "created_at": "2025-12-11",
+    "is_active": true
+  },
+  {
+    "user_id": 33,
+    "name": "Eva Silva",
+    "email": "eva.silva6@gmail.com",
+    "age": 53,
+    "created_at": "2025-03-08",
+    "is_active": true
+  },
+  {
+    "user_id": 34,
+    "name": "Bruno Costa",
+    "email": "bruno.costa71@gmail.com",
+    "age": 56,
+    "created_at": "2025-11-03",
+    "is_active": false
+  },
+  {
+    "user_id": 35,
+    "name": "Bruno Santos",
+    "email": "bruno.santos86@gmail.com",
+    "age": 61,
+    "created_at": "2025-06-26",
+    "is_active": true
+  },
+  {
+    "user_id": 36,
+    "name": "Ana Silva",
+    "email": "ana.silva75@gmail.com",
+    "age": 40,
+    "created_at": "2025-12-31",
+    "is_active": true
+  },
+  {
+    "user_id": 37,
+    "name": "Ana Oliveira",
+    "email": "ana.oliveira37@gmail.com",
+    "age": 36,
+    "created_at": "2025-05-11",
+    "is_active": true
+  },
+  {
+    "user_id": 38,
+    "name": "Bruno Santos",
+    "email": "bruno.santos84@gmail.com",
+    "age": 65,
+    "created_at": "2025-11-04",
+    "is_active": false
+  },
+  {
+    "user_id": 39,
+    "name": "Diogo Costa",
+    "email": "diogo.costa78@gmail.com",
+    "age": 22,
+    "created_at": "2026-01-18",
+    "is_active": false
+  },
+  {
+    "user_id": 40,
+    "name": "Carla Santos",
+    "email": "carla.santos73@gmail.com",
+    "age": 35,
+    "created_at": "2025-09-08",
+    "is_active": false
+  },
+  {
+    "user_id": 41,
+    "name": "Bruno Santos",
+    "email": "bruno.santos63@gmail.com",
+    "age": 52,
+    "created_at": "2025-04-24",
+    "is_active": false
+  },
+  {
+    "user_id": 42,
+    "name": "Filipe Costa",
+    "email": "filipe.costa27@gmail.com",
+    "age": 43,
+    "created_at": "2025-07-29",
+    "is_active": true
+  },
+  {
+    "user_id": 43,
+    "name": "Bruno Costa",
+    "email": "bruno.costa55@gmail.com",
+    "age": 65,
+    "created_at": "2025-09-15",
+    "is_active": true
+  },
+  {
+    "user_id": 44,
+    "name": "Eva Santos",
+    "email": "eva.santos75@gmail.com",
+    "age": 32,
+    "created_at": "2025-05-06",
+    "is_active": true
+  },
+  {
+    "user_id": 45,
+    "name": "Ana Costa",
+    "email": "ana.costa66@gmail.com",
+    "age": 31,
+    "created_at": "2025-03-09",
+    "is_active": false
+  },
+  {
+    "user_id": 46,
+    "name": "Ana Oliveira",
+    "email": "ana.oliveira87@gmail.com",
+    "age": 50,
+    "created_at": "2025-10-18",
+    "is_active": false
+  },
+  {
+    "user_id": 47,
+    "name": "Ana Costa",
+    "email": "ana.costa86@gmail.com",
+    "age": 61,
+    "created_at": "2025-05-14",
+    "is_active": false
+  },
+  {
+    "user_id": 48,
+    "name": "Filipe Santos",
+    "email": "filipe.santos23@gmail.com",
+    "age": 38,
+    "created_at": "2026-01-12",
+    "is_active": true
+  },
+  {
+    "user_id": 49,
+    "name": "Filipe Santos",
+    "email": "filipe.santos55@gmail.com",
+    "age": 46,
+    "created_at": "2025-09-09",
+    "is_active": false
+  },
+  {
+    "user_id": 50,
+    "name": "Eva Silva",
+    "email": "eva.silva14@gmail.com",
+    "age": 36,
+    "created_at": "2025-11-06",
+    "is_active": false
+  }
+]
