@@ -1,2 +1,2 @@
 # files_to_sql
-convert csv files to sql
+convert excel and json files to sql
