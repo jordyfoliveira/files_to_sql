@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+output/*.sql
+input/*.xlsx
+input/*.csv
+
+.env
