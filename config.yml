@@ -1,0 +1,30 @@
+active_profile: json_users
+
+profiles:
+  csv_users:
+    input:
+      file: input/users.csv
+      sheet_name: null
+      encoding: utf-8
+    output:
+      file: output/users.sql
+      dialect: postgres
+      if_not_exists: true
+    table:
+      name: users
+      selected_columns: null
+      primary_key: user_id
+
+  json_users:
+    input:
+      file: input/sample.json
+      sheet_name: null
+      encoding: utf-8
+    output:
+      file: output/users_from_json.sql
+      dialect: postgres
+      if_not_exists: true
+    table:
+      name: users_json
+      selected_columns: null
+      primary_key: user_id
